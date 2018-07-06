@@ -1,0 +1,102 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+MONIN_CONTACT
+</name>
+</assembly>
+<members>
+<member name="M:MONIN_CONTACT.FrmProduit.cboGamme_SelectedIndexChanged(System.Object,System.EventArgs)">
+ Filtre combobox Gamme '''
+</member>
+<member name="M:MONIN_CONTACT.FrmProduit.RefreshProduit">
+ Sub refresh datagridview '''
+</member>
+<member name="M:MONIN_CONTACT.FrmProduit.tbProduit_TextChanged(System.Object,System.EventArgs)">
+ Search txtBox Produit '''
+</member>
+<member name="M:MONIN_CONTACT.FrmProduit.LinkLabel1_LinkClicked(System.Object,System.Windows.Forms.LinkLabelLinkClickedEventArgs)">
+ Remove Filtre Entreprise '''
+</member>
+<member name="M:MONIN_CONTACT.FrmProduit.dgProduit_SelectionChanged(System.Object,System.EventArgs)">
+ On select row on datagridview contact '''
+</member>
+<member name="M:MONIN_CONTACT.FrmProduit.btnAddProduit_Click(System.Object,System.EventArgs)">
+ Btn Add Produit '''
+</member>
+<member name="M:MONIN_CONTACT.FrmProduit.btnEditProduit_Click(System.Object,System.EventArgs)">
+ Btn Update Produit '''
+</member>
+<member name="M:MONIN_CONTACT.FrmProduit.btnDelProduit_Click(System.Object,System.EventArgs)">
+ Btn Del Produit '''
+</member>
+<member name="M:MONIN_CONTACT.FrmProduit.btnAddRecette_Click(System.Object,System.EventArgs)">
+Btn Add Recette '''
+</member>
+<member name="M:MONIN_CONTACT.FrmProduit.BtnDelRecette_Click(System.Object,System.EventArgs)">
+ Btn Del Recette'''
+</member>
+<member name="M:MONIN_CONTACT.FrmProduit.dgProduit_Click(System.Object,System.EventArgs)">
+ End Btn Del Recette '''
+</member>
+<member name="M:MONIN_CONTACT.FrmProduit.btnEditRecette_Click(System.Object,System.EventArgs)">
+ Btn Update Recette '''
+</member>
+<member name="M:MONIN_CONTACT.FrmProduit.dgRecette_SelectionChanged(System.Object,System.EventArgs)">
+ End Btn Update Recette '''
+ 
+</member>
+<member name="M:MONIN_CONTACT.FrmContact.cboEntreprise_SelectedIndexChanged(System.Object,System.EventArgs)">
+ Filtre combobox entreprise '''
+</member>
+<member name="M:MONIN_CONTACT.FrmContact.RefreshContact">
+ Sub refresh datagridview '''
+</member>
+<member name="M:MONIN_CONTACT.FrmContact.tbClient_TextChanged(System.Object,System.EventArgs)">
+ Search txtBox contact '''
+</member>
+<member name="M:MONIN_CONTACT.FrmContact.LinkLabel1_LinkClicked(System.Object,System.Windows.Forms.LinkLabelLinkClickedEventArgs)">
+ Remove Filtre Entreprise '''
+</member>
+<member name="M:MONIN_CONTACT.FrmContact.dgContact_SelectionChanged(System.Object,System.EventArgs)">
+ On select row on datagridview contact '''
+</member>
+<member name="M:MONIN_CONTACT.FrmContact.btnAddContact_Click(System.Object,System.EventArgs)">
+ Btn Add Contact '''
+</member>
+<member name="M:MONIN_CONTACT.FrmContact.btnEdit_Click(System.Object,System.EventArgs)">
+ Btn Update Contact '''
+</member>
+<member name="M:MONIN_CONTACT.FrmContact.btnDelContact_Click(System.Object,System.EventArgs)">
+ Btn Del Contact '''
+</member>
+<member name="M:MONIN_CONTACT.FrmContact.btnAddAction_Click(System.Object,System.EventArgs)">
+Btn Add Action '''
+</member>
+<member name="M:MONIN_CONTACT.FrmContact.BtnDelAction_Click(System.Object,System.EventArgs)">
+ Btn Del Action '''
+</member>
+<member name="M:MONIN_CONTACT.FrmContact.dgContact_Click(System.Object,System.EventArgs)">
+ End Btn Del Action '''
+</member>
+<member name="M:MONIN_CONTACT.FrmContact.btnEditAction_Click(System.Object,System.EventArgs)">
+ Btn Update Contact '''
+</member>
+<member name="T:MONIN_CONTACT.My.Resources.Resources">
+<summary>
+  Une classe de ressource fortement typée destinée, entre autres, à la consultation des chaînes localisées.
+</summary>
+</member>
+<member name="P:MONIN_CONTACT.My.Resources.Resources.ResourceManager">
+<summary>
+  Retourne l'instance ResourceManager mise en cache utilisée par cette classe.
+</summary>
+</member>
+<member name="P:MONIN_CONTACT.My.Resources.Resources.Culture">
+<summary>
+  Remplace la propriété CurrentUICulture du thread actuel pour toutes
+  les recherches de ressources à l'aide de cette classe de ressource fortement typée.
+</summary>
+</member>
+</members>
+</doc>
